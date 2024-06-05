@@ -3,7 +3,11 @@
     "autoload": {
         "psr-4": {
             "Tongtrankien1605\\XuongOop\\": "src/"
-        }
+        },
+        "files" :
+        [
+            "helper.php"
+        ]
     },
     "authors": [
         {
